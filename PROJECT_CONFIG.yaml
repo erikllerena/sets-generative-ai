@@ -6,7 +6,7 @@ framework:
   project_domain: Generative AI
   objective_role: Generative AI Practitioner
 program:
-  version: 1.0.1
+  version: 1.0.2
   repository: sets-generative-ai
   competency_namespace: GAI
   scope: >-

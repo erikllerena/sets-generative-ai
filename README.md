@@ -1,6 +1,6 @@
 # SETS — Generative AI
 
-**Programa:** v1.0.1 · **Framework:** SETS v1.4.1 · **Namespace:** `GAI00–GAI14`
+**Programa:** v1.0.2 · **Framework:** SETS v1.4.1 · **Namespace:** `GAI00–GAI14`
 
 Comprender cómo funcionan los modelos generativos y cómo evaluar sus capacidades y límites, desde LLM y generación multimodal hasta recuperación de información, adaptación de modelos y flujos de trabajo con herramientas.
 
@@ -52,4 +52,4 @@ Se centra en el comportamiento, los mecanismos relevantes y los patrones de uso 
 
 ## Versionado
 
-Versión actual del programa: `v1.0.1` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
+Versión actual del programa: `v1.0.2` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
