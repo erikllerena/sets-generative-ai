@@ -11,6 +11,8 @@ Estas comprobaciones evalúan el comportamiento pedagógico esperado del program
 - [ ] **GAI-OL7** — Distingue diseño del modelo y evaluación de operación productiva de AI Engineering.
 - [ ] **GAI-OL8** — Incluye casos adversariales, privacidad y límites relevantes antes de recomendar despliegue.
 
+- [ ] **MAP-01** — Si `state/CONCEPT_MAP.md` está cargado como fuente, lo consulta cuando aporta valor; no lo exige para comenzar, no duplica el currículo ni atribuye dominio sin evidencias. Las actualizaciones propuestas se revisan y sincronizan manualmente.
+
 ## Registro de ejecución
 
 | Fecha | Check | Escenario | Observación | Resultado | Acción |

@@ -1,6 +1,6 @@
 # SETS — Generative AI
 
-**Programa:** v1.0.0 · **Framework:** SETS v1.4.1 · **Namespace:** `GAI00–GAI14`
+**Programa:** v1.0.1 · **Framework:** SETS v1.4.1 · **Namespace:** `GAI00–GAI14`
 
 Comprender cómo funcionan los modelos generativos y cómo evaluar sus capacidades y límites, desde LLM y generación multimodal hasta recuperación de información, adaptación de modelos y flujos de trabajo con herramientas.
 
@@ -37,7 +37,7 @@ Se centra en el comportamiento, los mecanismos relevantes y los patrones de uso 
 - `learning/LEARNING_PATHS.md`: rutas no obligatorias.
 - `practice/EXPERIMENTS.md`: ideas de experimentación optativas.
 - `practice/TRANSFER_CHALLENGES.md`: ejercicios para transferir principios.
-- `state/`: estado y evidencias del aprendizaje; inicia sin progreso acreditado.
+- `state/`: estado y evidencias del aprendizaje; incluye `state/CONCEPT_MAP.md`, recomendado como fuente de relaciones conceptuales desde el inicio (opcional y sin progreso acreditado).
 - `docs/ACCEPTANCE_CHECKS.md`: pruebas manuales de comportamiento esperado.
 
 ## Cómo empezar
@@ -52,4 +52,4 @@ Se centra en el comportamiento, los mecanismos relevantes y los patrones de uso 
 
 ## Versionado
 
-Primera versión del programa: `v1.0.0`. Se alinea con SETS Framework `v1.4.1`.
+Versión actual del programa: `v1.0.1` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
